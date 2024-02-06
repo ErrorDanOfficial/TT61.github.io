@@ -1,8 +1,8 @@
 {
   "name": "Calculator",
-  "description": "MelonJS Flapppy Bird Clone",
+  "description": "",
   "repository": "https://github.com/ellisonleao/clumsy-bird",
-  "logo": "https://raw.githubusercontent.com/ellisonleao/clumsy-bird/gh-pages/data/img/touch-icon-iphone.png",
-  "keywords": ["grunt", "melonjs", "games"]
+  "logo": "",
+  "keywords":
 }
 
